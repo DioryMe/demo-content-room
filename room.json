@@ -1,0 +1,34 @@
+{
+  "diographUrl": "diograph.json",
+  "connections": [
+    {
+      "id": "native-connection",
+      "address": "Diory Content",
+      "type": "local",
+      "contentUrls": {
+        "this-is-CID": {
+          "diory": {
+            "id": "987-def",
+            "text": "test-image.jpg",
+            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8c43hPwAHewLTbrmJlAAAAABJRU5ErkJggg=="
+          },
+          "internalPath": "test-image.jpg"
+        },
+        "test-image-jpg-content-url": {
+          "diory": {
+            "id": "test-image-jpg-content-url",
+            "text": "test-image.jpg",
+            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8c43hPwAHewLTbrmJlAAAAABJRU5ErkJggg=="
+          },
+          "internalPath": "test-image.jpg"
+        }
+      }
+    },
+    {
+      "id": "source-connection",
+      "address": "/source",
+      "type": "local",
+      "contentUrls": {}
+    }
+  ]
+}
