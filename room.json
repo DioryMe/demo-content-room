@@ -21,12 +21,96 @@
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8c43hPwAHewLTbrmJlAAAAABJRU5ErkJggg=="
           },
           "internalPath": "test-image.jpg"
+        },
+        "Adamstown Middle School": {
+          "diory": {
+            "id": "Adamstown Middle School",
+            "text": "Adamstown Middle School",
+            "data": [
+              {
+                "contentUrl": "Adamstown Middle School"
+              }
+            ]
+          },
+          "internalPath": "Adamstown Middle School"
+        },
+        "Generic content": {
+          "diory": {
+            "id": "Generic content",
+            "text": "Generic content",
+            "data": [
+              {
+                "contentUrl": "Generic content"
+              }
+            ]
+          },
+          "internalPath": "Generic content"
+        },
+        "Jane": {
+          "diory": {
+            "id": "Jane",
+            "text": "Jane",
+            "data": [
+              {
+                "contentUrl": "Jane"
+              }
+            ]
+          },
+          "internalPath": "Jane"
+        },
+        "Mary": {
+          "diory": {
+            "id": "Mary",
+            "text": "Mary",
+            "data": [
+              {
+                "contentUrl": "Mary"
+              }
+            ]
+          },
+          "internalPath": "Mary"
+        },
+        "Potomac Kayaking Center": {
+          "diory": {
+            "id": "Potomac Kayaking Center",
+            "text": "Potomac Kayaking Center",
+            "data": [
+              {
+                "contentUrl": "Potomac Kayaking Center"
+              }
+            ]
+          },
+          "internalPath": "Potomac Kayaking Center"
+        },
+        "Riverfest 2014": {
+          "diory": {
+            "id": "Riverfest 2014",
+            "text": "Riverfest 2014",
+            "data": [
+              {
+                "contentUrl": "Riverfest 2014"
+              }
+            ]
+          },
+          "internalPath": "Riverfest 2014"
+        },
+        "Scouts BSA International": {
+          "diory": {
+            "id": "Scouts BSA International",
+            "text": "Scouts BSA International",
+            "data": [
+              {
+                "contentUrl": "Scouts BSA International"
+              }
+            ]
+          },
+          "internalPath": "Scouts BSA International"
         }
       }
     },
     {
       "id": "source-connection",
-      "address": "/source",
+      "address": "source",
       "type": "local",
       "contentUrls": {}
     }
