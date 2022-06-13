@@ -115,7 +115,8 @@
         {
           "@context": "https://schema.org",
           "@type": "VideoObject",
-          "contentUrl": "some-video.mov",
+          "contentUrl": "bafkreifhhmoftoo26lc223k5riwflm6uvgrizwakg5z7n7yruj7gty27ji",
+          "contentId": "bafkreifhhmoftoo26lc223k5riwflm6uvgrizwakg5z7n7yruj7gty27ji",
           "encodingFormat": "video/mp4"
         }
       ]
@@ -131,6 +132,7 @@
           "@context": "https://schema.org",
           "@type": "AudioObject",
           "contentUrl": "some-audio.m4a",
+          "contentId": "some-audio.m4a",
           "encodingFormat": "audio/x-m4a"
         }
       ]
@@ -156,6 +158,7 @@
           "@context": "https://schema.org",
           "@type": "DigitalDocument",
           "contentUrl": "some-document.odt",
+          "contentId": "some-document.odt",
           "encodingFormat": "application/vnd.oasis.opendocument.text"
         }
       ]
@@ -171,6 +174,7 @@
           "@context": "https://schema.org",
           "@type": "DigitalDocument",
           "contentUrl": "some-document.pdf",
+          "contentId": "some-document.pdf",
           "encodingFormat": "application/pdf"
         }
       ]
@@ -185,7 +189,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "some-image.jpeg",
+          "contentUrl": "bafkreihkqxpj4iwdw32vshr47qjme3fm3alwnar6ltngwscypf4jtpff6q",
+          "contentId": "bafkreihkqxpj4iwdw32vshr47qjme3fm3alwnar6ltngwscypf4jtpff6q",
           "encodingFormat": "image/jpeg"
         }
       ]
@@ -387,7 +392,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53350-6177x4118.jpeg",
+          "contentUrl": "bafkreihbdmt4bhosash53o535633m22xnz6ydhc47ein47oom4lj7kznlq",
+          "contentId": "bafkreihbdmt4bhosash53o535633m22xnz6ydhc47ein47oom4lj7kznlq",
           "height": 4118,
           "width": 6177,
           "encodingFormat": "image/jpeg"
@@ -404,7 +410,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53541-1782x1188.jpeg",
+          "contentUrl": "bafkreie53fgzjsq4zobl6vcldgvll6orkoxzu5khyimrzda43mwt3y3qhm",
+          "contentId": "bafkreie53fgzjsq4zobl6vcldgvll6orkoxzu5khyimrzda43mwt3y3qhm",
           "height": 1188,
           "width": 1782,
           "encodingFormat": "image/jpeg"
@@ -422,7 +429,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53543-1782x1188.jpeg",
+          "contentUrl": "bafkreifgddwk2ymrc7neoniqdcolrgmvrfqfiknvbagusvxoa5hfca7cle",
+          "contentId": "bafkreifgddwk2ymrc7neoniqdcolrgmvrfqfiknvbagusvxoa5hfca7cle",
           "height": 1188,
           "width": 1782,
           "encodingFormat": "image/jpeg"
@@ -439,7 +447,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53549-1782x1188.jpeg",
+          "contentUrl": "bafkreic6ttvffo4di4jzsjveroqedyxirisudqfj6w6gcnuoaiikekxxje",
+          "contentId": "bafkreic6ttvffo4di4jzsjveroqedyxirisudqfj6w6gcnuoaiikekxxje",
           "height": 1188,
           "width": 1782,
           "encodingFormat": "image/jpeg"
@@ -456,7 +465,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53551-1782x1188.jpeg",
+          "contentUrl": "bafkreif4lt3vhlmxpcey4xooxlsoebpwfdwtflfwfru7d2meai2fb236eu",
+          "contentId": "bafkreif4lt3vhlmxpcey4xooxlsoebpwfdwtflfwfru7d2meai2fb236eu",
           "height": 1188,
           "width": 1782,
           "encodingFormat": "image/jpeg"
@@ -473,7 +483,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53553-1782x1188.jpeg",
+          "contentUrl": "bafkreif26at22ofail3cfun2hywmfzumzdml3ts53553ezsbcdsn2jnoem",
+          "contentId": "bafkreif26at22ofail3cfun2hywmfzumzdml3ts53553ezsbcdsn2jnoem",
           "height": 1188,
           "width": 1782,
           "encodingFormat": "image/jpeg"
@@ -490,7 +501,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53555-1782x1188.jpeg",
+          "contentUrl": "bafkreicuh7r63n4peyr6bluc3ebenq4lw4jh463d3mpdilnwaysn3us324",
+          "contentId": "bafkreicuh7r63n4peyr6bluc3ebenq4lw4jh463d3mpdilnwaysn3us324",
           "height": 1188,
           "width": 1782,
           "encodingFormat": "image/jpeg"
@@ -507,7 +519,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-54298-5970x3980.jpeg",
+          "contentUrl": "bafkreihtiytevmyeiwqt7v4fj6ocb3nqioyjoh2nqzid7vrkshkndj5hdu",
+          "contentId": "bafkreihtiytevmyeiwqt7v4fj6ocb3nqioyjoh2nqzid7vrkshkndj5hdu",
           "height": 3980,
           "width": 5970,
           "encodingFormat": "image/jpeg"
@@ -524,7 +537,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-54348-6177x4118.jpeg",
+          "contentUrl": "bafkreigpx2jl6dc3cnfiyttftplirxes7x73wxos7oaznatn6dcoqtzrny",
+          "contentId": "bafkreigpx2jl6dc3cnfiyttftplirxes7x73wxos7oaznatn6dcoqtzrny",
           "height": 4118,
           "width": 6177,
           "encodingFormat": "image/jpeg"
@@ -541,7 +555,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-54360-6177x4118.jpeg",
+          "contentUrl": "bafkreicupadfckb4myc2yom5etx2co7eph5sg2lshcx7eameeijt6hlhza",
+          "contentId": "bafkreicupadfckb4myc2yom5etx2co7eph5sg2lshcx7eameeijt6hlhza",
           "height": 4118,
           "width": 6177,
           "encodingFormat": "image/jpeg"
@@ -558,7 +573,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-54454-6138x4092.jpeg",
+          "contentUrl": "bafkreidqzn2oioyvd62dc4cxvtbuwxcq6p7v5b3ro2i5yoofpa4ouppimy",
+          "contentId": "bafkreidqzn2oioyvd62dc4cxvtbuwxcq6p7v5b3ro2i5yoofpa4ouppimy",
           "height": 4092,
           "width": 6138,
           "encodingFormat": "image/jpeg"
@@ -574,7 +590,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-12656-2816x2112.jpeg",
+          "contentUrl": "bafkreie2zrz5q2go7ip4oy66j22fe3pgcqjbtlswag7bxurts3sgsklyo4",
+          "contentId": "bafkreie2zrz5q2go7ip4oy66j22fe3pgcqjbtlswag7bxurts3sgsklyo4",
           "height": 2112,
           "width": 2816,
           "encodingFormat": "image/jpeg"
@@ -590,7 +607,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-12662-2816x2112.jpeg",
+          "contentUrl": "bafkreihvrvdnsthz2izl4beiuo6m3hceziss7khdxamzzqoz4p6pvzuham",
+          "contentId": "bafkreihvrvdnsthz2izl4beiuo6m3hceziss7khdxamzzqoz4p6pvzuham",
           "height": 2112,
           "width": 2816,
           "encodingFormat": "image/jpeg"
@@ -606,7 +624,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-12700-2816x2112.jpeg",
+          "contentUrl": "bafkreihrnemuclicob3r3u6h2nqwjqfipryecd4lusoi4ecsb7cnpcnjgq",
+          "contentId": "bafkreihrnemuclicob3r3u6h2nqwjqfipryecd4lusoi4ecsb7cnpcnjgq",
           "height": 2112,
           "width": 2816,
           "encodingFormat": "image/jpeg"
@@ -623,7 +642,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53747-4118x3088.jpeg",
+          "contentUrl": "bafkreih2imdq3mpqshbzc4wipwdvuvm5zxqllpm5wahlnprmnxeqdgcdvu",
+          "contentId": "bafkreih2imdq3mpqshbzc4wipwdvuvm5zxqllpm5wahlnprmnxeqdgcdvu",
           "height": 3088,
           "width": 4118,
           "encodingFormat": "image/jpeg"
@@ -657,7 +677,8 @@
         {
           "@context": "https://schema.org",
           "@type": "ImageObject",
-          "contentUrl": "PIXNIO-53799-6177x4118.jpeg",
+          "contentUrl": "bafkreihp3h6ggnxysuobjsgtsibaqq5khzjbaamyy6ec2adredtf2ixz3u",
+          "contentId": "bafkreihp3h6ggnxysuobjsgtsibaqq5khzjbaamyy6ec2adredtf2ixz3u",
           "height": 4118,
           "width": 6177,
           "encodingFormat": "image/jpeg"
