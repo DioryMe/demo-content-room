@@ -2,7 +2,6 @@
   "diographUrl": "diograph.json",
   "connections": [
     {
-      "id": "native-connection",
       "address": "/Diory Content",
       "contentClient": "local",
       "contentUrls": {
@@ -577,12 +576,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
-
