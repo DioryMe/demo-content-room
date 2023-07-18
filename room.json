@@ -2,7 +2,7 @@
   "connections": [
     {
       "address": "/Diory Content",
-      "contentClient": "local",
+      "contentClientType": "LocalClient",
       "contentUrls": {
         "pixnio-public-domain-test-content.txt": "/Scouts BSA International/pixnio-public-domain-test-content.txt",
         "bafkreidqzn2oioyvd62dc4cxvtbuwxcq6p7v5b3ro2i5yoofpa4ouppimy": "/Scouts BSA International/PIXNIO-54454-6138x4092.jpeg",
