@@ -37,14 +37,14 @@
     ],
     "text": "Diory demo content",
     "image": "demo-content.png",
-    "modified": "2020-01-03T14:03:04.751Z"
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "generic-content": {
     "id": "generic-content",
     "links": [
       {
         "id": "diory1",
-        "path": "placeholder",
         "path": "placeholder"
       },
       {
@@ -73,7 +73,9 @@
       }
     ],
     "text": "Generic content",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8GmnyHwAGEAJzBJT/2AAAAABJRU5ErkJggg=="
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8GmnyHwAGEAJzBJT/2AAAAABJRU5ErkJggg==",
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "diory1": {
     "id": "diory1",
@@ -96,7 +98,9 @@
       }
     ],
     "text": "Diory 1",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcfdT2PwAGPgKeWQwJuAAAAABJRU5ErkJggg=="
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcfdT2PwAGPgKeWQwJuAAAAABJRU5ErkJggg==",
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "diory11": {
     "id": "diory11",
@@ -107,22 +111,30 @@
       }
     ],
     "text": "Diory 11",
-    "image": ""
+    "image": "",
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "diory12": {
     "id": "diory12",
     "text": "Diory 12",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8c43hPwAHewLTbrmJlAAAAABJRU5ErkJggg=="
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8c43hPwAHewLTbrmJlAAAAABJRU5ErkJggg==",
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "diory13": {
     "id": "diory13",
     "text": "Diory 13",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOMPvD6PwAGiwMHcHyXEAAAAABJRU5ErkJggg=="
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOMPvD6PwAGiwMHcHyXEAAAAABJRU5ErkJggg==",
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "diory14": {
     "id": "diory14",
     "text": "Diory 14",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8GmnyHwAGEAJzBJT/2AAAAABJRU5ErkJggg=="
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8GmnyHwAGEAJzBJT/2AAAAABJRU5ErkJggg==",
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "5456c2c3-4a69-4d80-bd2f-caa9945cff71": {
     "id": "5456c2c3-4a69-4d80-bd2f-caa9945cff71",
@@ -162,7 +174,9 @@
       {
         "url": "https://hs.fi"
       }
-    ]
+    ],
+    "modified": "2020-01-03T14:03:04.751Z",
+    "created": "2020-01-03T14:03:04.751Z"
   },
   "some-document-odt": {
     "id": "some-document-odt",
@@ -222,13 +236,17 @@
       }
     ],
     "text": "Map content",
-    "image": "https://www.publicdomainpictures.net/pictures/190000/velka/travel-background-1469438300Bbk.jpg"
+    "image": "https://www.publicdomainpictures.net/pictures/190000/velka/travel-background-1469438300Bbk.jpg",
+    "modified": "2020-01-03T21:44:25.345Z",
+    "created": "2020-01-03T21:44:25.345Z"
   },
   "helvetinjärvi": {
     "id": "helvetinjärvi",
     "text": "Helvetinjärven kansallispuisto",
     "image": "https://lh3.ggpht.com/p/AF1QipPeoo0jUW9dEDIbO_xjN1Knn8ZNbE8x84ea9f-1=s1536",
-    "latlng": "62, 24"
+    "latlng": "62, 24",
+    "modified": "2020-01-03T21:44:25.345Z",
+    "created": "2020-01-03T21:44:25.345Z"
   },
   "tampere": {
     "id": "tampere",
@@ -249,28 +267,32 @@
     "text": "Tampere",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Downtown_Tampere4.jpg",
     "latlng": "61.49960404266185, 23.762183189392093",
-    "modified": "2020-01-03T21:44:25.345Z"
+    "modified": "2020-01-03T21:44:25.345Z",
+    "created": "2020-01-03T21:44:25.345Z"
   },
   "keskustori": {
     "id": "keskustori",
     "text": "Keskustori",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tampere_-_Keskustori.jpg/800px-Tampere_-_Keskustori.jpg",
     "latlng": "61.49768995940461, 23.760348558425907",
-    "modified": "2020-01-03T21:45:00.791Z"
+    "modified": "2020-01-03T21:45:00.791Z",
+    "created": "2020-01-03T21:45:00.791Z"
   },
   "frenkell": {
     "id": "frenkell",
     "text": "Frenkell",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Frenckell_factory1.jpg",
     "latlng": "61.50011150135485, 23.763899803161625",
-    "modified": "2020-01-03T21:44:56.115Z"
+    "modified": "2020-01-03T21:44:56.115Z",
+    "created": "2020-01-03T21:44:56.115Z"
   },
   "hameenkatu": {
     "id": "hameenkatu",
     "text": "Hämeenkatu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tampere_Hameenkatu.png",
     "latlng": "61.49785379059735, 23.762902021408085",
-    "modified": "2020-01-03T21:44:58.285Z"
+    "modified": "2020-01-03T21:44:58.285Z",
+    "created": "2020-01-03T21:44:58.285Z"
   },
   "3e2ddc49-b3b6-4212-8a0a-80b9150a57ae": {
     "id": "3e2ddc49-b3b6-4212-8a0a-80b9150a57ae",
