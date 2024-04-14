@@ -168,13 +168,8 @@
   },
   "some-website": {
     "id": "some-website",
-    "text": "A good website",
+    "text": "A good website (currently without data:[{url: https://hs.fi}]",
     "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8GmnyHwAGEAJzBJT/2AAAAABJRU5ErkJggg==",
-    "data": [
-      {
-        "url": "https://hs.fi"
-      }
-    ],
     "modified": "2020-01-03T14:03:04.751Z",
     "created": "2020-01-03T14:03:04.751Z"
   },
