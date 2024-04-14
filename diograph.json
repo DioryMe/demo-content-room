@@ -3,28 +3,36 @@
     "id": "demo-content-room",
     "links": [
       {
-        "id": "ef79b80c-e319-4bfb-8faa-ebbc1150f27f"
+        "id": "ef79b80c-e319-4bfb-8faa-ebbc1150f27f",
+        "path": "placeholder"
       },
       {
-        "id": "generic-content"
+        "id": "generic-content",
+        "path": "placeholder"
       },
       {
-        "id": "3e2ddc49-b3b6-4212-8a0a-80b9150a57ae"
+        "id": "3e2ddc49-b3b6-4212-8a0a-80b9150a57ae",
+        "path": "placeholder"
       },
       {
-        "id": "e07c2f1d-5f5a-488a-a505-34f7b9f55105"
+        "id": "e07c2f1d-5f5a-488a-a505-34f7b9f55105",
+        "path": "placeholder"
       },
       {
-        "id": "506cd9dd-97f4-4b98-9172-87f5c8966ade"
+        "id": "506cd9dd-97f4-4b98-9172-87f5c8966ade",
+        "path": "placeholder"
       },
       {
-        "id": "d031d5a8-0a37-49cb-b800-54e437a7c78e"
+        "id": "d031d5a8-0a37-49cb-b800-54e437a7c78e",
+        "path": "placeholder"
       },
       {
-        "id": "f1470597-1a3c-4a76-8546-2c29591a6846"
+        "id": "f1470597-1a3c-4a76-8546-2c29591a6846",
+        "path": "placeholder"
       },
       {
-        "id": "map-content"
+        "id": "map-content",
+        "path": "placeholder"
       }
     ],
     "text": "Diory demo content",
@@ -35,25 +43,33 @@
     "id": "generic-content",
     "links": [
       {
-        "id": "diory1"
+        "id": "diory1",
+        "path": "placeholder",
+        "path": "placeholder"
       },
       {
-        "id": "5456c2c3-4a69-4d80-bd2f-caa9945cff71"
+        "id": "5456c2c3-4a69-4d80-bd2f-caa9945cff71",
+        "path": "placeholder"
       },
       {
-        "id": "32df7219-a33c-4bc9-bdc0-f24470292871"
+        "id": "32df7219-a33c-4bc9-bdc0-f24470292871",
+        "path": "placeholder"
       },
       {
-        "id": "some-website"
+        "id": "some-website",
+        "path": "placeholder"
       },
       {
-        "id": "some-document-odt"
+        "id": "some-document-odt",
+        "path": "placeholder"
       },
       {
-        "id": "some-document-pdf"
+        "id": "some-document-pdf",
+        "path": "placeholder"
       },
       {
-        "id": "some-image"
+        "id": "some-image",
+        "path": "placeholder"
       }
     ],
     "text": "Generic content",
@@ -63,16 +79,20 @@
     "id": "diory1",
     "links": [
       {
-        "id": "diory11"
+        "id": "diory11",
+        "path": "placeholder"
       },
       {
-        "id": "diory12"
+        "id": "diory12",
+        "path": "placeholder"
       },
       {
-        "id": "diory13"
+        "id": "diory13",
+        "path": "placeholder"
       },
       {
-        "id": "diory14"
+        "id": "diory14",
+        "path": "placeholder"
       }
     ],
     "text": "Diory 1",
@@ -82,7 +102,8 @@
     "id": "diory11",
     "links": [
       {
-        "id": "diory11"
+        "id": "diory11",
+        "path": "placeholder"
       }
     ],
     "text": "Diory 11",
@@ -192,10 +213,12 @@
     "id": "map-content",
     "links": [
       {
-        "id": "helvetinjärvi"
+        "id": "helvetinjärvi",
+        "path": "placeholder"
       },
       {
-        "id": "tampere"
+        "id": "tampere",
+        "path": "placeholder"
       }
     ],
     "text": "Map content",
@@ -211,13 +234,16 @@
     "id": "tampere",
     "links": [
       {
-        "id": "keskustori"
+        "id": "keskustori",
+        "path": "placeholder"
       },
       {
-        "id": "frenkell"
+        "id": "frenkell",
+        "path": "placeholder"
       },
       {
-        "id": "hameenkatu"
+        "id": "hameenkatu",
+        "path": "placeholder"
       }
     ],
     "text": "Tampere",
@@ -250,16 +276,20 @@
     "id": "3e2ddc49-b3b6-4212-8a0a-80b9150a57ae",
     "links": [
       {
-        "id": "6abcc50e-422e-4802-9b14-84fcdd08f591"
+        "id": "6abcc50e-422e-4802-9b14-84fcdd08f591",
+        "path": "placeholder"
       },
       {
-        "id": "e488d7e0-773f-4218-b893-2d0d164cce18"
+        "id": "e488d7e0-773f-4218-b893-2d0d164cce18",
+        "path": "placeholder"
       },
       {
-        "id": "dd1a14b9-f564-4c2c-8330-df29cd78ac45"
+        "id": "dd1a14b9-f564-4c2c-8330-df29cd78ac45",
+        "path": "placeholder"
       },
       {
-        "id": "bea0b059-413d-42a8-a7ad-62d0f252b596"
+        "id": "bea0b059-413d-42a8-a7ad-62d0f252b596",
+        "path": "placeholder"
       }
     ],
     "text": "Jane (person)",
@@ -271,19 +301,24 @@
     "id": "e07c2f1d-5f5a-488a-a505-34f7b9f55105",
     "links": [
       {
-        "id": "5c63b738-2bc0-449c-80a8-be04dfe1e8b4"
+        "id": "5c63b738-2bc0-449c-80a8-be04dfe1e8b4",
+        "path": "placeholder"
       },
       {
-        "id": "b49d6daf-687f-4c1d-ad0a-fb74c33ce323"
+        "id": "b49d6daf-687f-4c1d-ad0a-fb74c33ce323",
+        "path": "placeholder"
       },
       {
-        "id": "78661050-900d-4e87-84e2-a5262fca6770"
+        "id": "78661050-900d-4e87-84e2-a5262fca6770",
+        "path": "placeholder"
       },
       {
-        "id": "bea0b059-413d-42a8-a7ad-62d0f252b596"
+        "id": "bea0b059-413d-42a8-a7ad-62d0f252b596",
+        "path": "placeholder"
       },
       {
-        "id": "f1470597-1a3c-4a76-8546-2c29591a6846"
+        "id": "f1470597-1a3c-4a76-8546-2c29591a6846",
+        "path": "placeholder"
       }
     ],
     "text": "Mary (person)",
@@ -295,10 +330,12 @@
     "id": "ef79b80c-e319-4bfb-8faa-ebbc1150f27f",
     "links": [
       {
-        "id": "b6c38977-1ed5-4ecb-928f-5bd1ab7e8a77"
+        "id": "b6c38977-1ed5-4ecb-928f-5bd1ab7e8a77",
+        "path": "placeholder"
       },
       {
-        "id": "c54bb7c6-a01d-422b-bfa7-e6a6c05acc5f"
+        "id": "c54bb7c6-a01d-422b-bfa7-e6a6c05acc5f",
+        "path": "placeholder"
       }
     ],
     "text": "Adamstown Middle School (event)",
@@ -311,16 +348,20 @@
     "id": "506cd9dd-97f4-4b98-9172-87f5c8966ade",
     "links": [
       {
-        "id": "ef79b80c-e319-4bfb-8faa-ebbc1150f27f"
+        "id": "ef79b80c-e319-4bfb-8faa-ebbc1150f27f",
+        "path": "placeholder"
       },
       {
-        "id": "d031d5a8-0a37-49cb-b800-54e437a7c78e"
+        "id": "d031d5a8-0a37-49cb-b800-54e437a7c78e",
+        "path": "placeholder"
       },
       {
-        "id": "f1470597-1a3c-4a76-8546-2c29591a6846"
+        "id": "f1470597-1a3c-4a76-8546-2c29591a6846",
+        "path": "placeholder"
       },
       {
-        "id": "cb850aa9-9fa2-433e-bce2-387ed5732901"
+        "id": "cb850aa9-9fa2-433e-bce2-387ed5732901",
+        "path": "placeholder"
       }
     ],
     "text": "Potomac Kayaking Center (place)",
@@ -334,7 +375,8 @@
     "id": "d031d5a8-0a37-49cb-b800-54e437a7c78e",
     "links": [
       {
-        "id": "c60c4384-6cb1-4569-b6f8-d6ece4dd75e0"
+        "id": "c60c4384-6cb1-4569-b6f8-d6ece4dd75e0",
+        "path": "placeholder"
       }
     ],
     "text": "Riverfest 2014 (event)",
@@ -347,25 +389,32 @@
     "id": "f1470597-1a3c-4a76-8546-2c29591a6846",
     "links": [
       {
-        "id": "103f852d-4a2a-44de-8f4f-08ccddc3d280"
+        "id": "103f852d-4a2a-44de-8f4f-08ccddc3d280",
+        "path": "placeholder"
       },
       {
-        "id": "bea0b059-413d-42a8-a7ad-62d0f252b596"
+        "id": "bea0b059-413d-42a8-a7ad-62d0f252b596",
+        "path": "placeholder"
       },
       {
-        "id": "640518ab-fd17-4b22-9fae-ed4a0384d12f"
+        "id": "640518ab-fd17-4b22-9fae-ed4a0384d12f",
+        "path": "placeholder"
       },
       {
-        "id": "5c58666b-a7ad-4011-aa9d-d0c2be9a26c7"
+        "id": "5c58666b-a7ad-4011-aa9d-d0c2be9a26c7",
+        "path": "placeholder"
       },
       {
-        "id": "e32df400-8d33-41bd-b3b3-8113564a43f2"
+        "id": "e32df400-8d33-41bd-b3b3-8113564a43f2",
+        "path": "placeholder"
       },
       {
-        "id": "7f2ca0f2-ff5d-40c2-90bf-c3d1ff5818bf"
+        "id": "7f2ca0f2-ff5d-40c2-90bf-c3d1ff5818bf",
+        "path": "placeholder"
       },
       {
-        "id": "3cc529e5-7d52-4519-83fb-9d0c1aff76e4"
+        "id": "3cc529e5-7d52-4519-83fb-9d0c1aff76e4",
+        "path": "placeholder"
       }
     ],
     "text": "Scouts BSA International (event)",
