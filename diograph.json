@@ -1,6 +1,6 @@
 {
-  "demo-content-room": {
-    "id": "demo-content-room",
+  "/": {
+    "id": "/",
     "links": [
       {
         "id": "ef79b80c-e319-4bfb-8faa-ebbc1150f27f",
